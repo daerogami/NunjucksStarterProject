@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Sass Compile",
+            "type": "shell",
+            "command": "node-sass assets/scss/styles.scss assets/css/styles.css",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Less Compile",
+            "type": "shell",
+            "command": "lessc styles.less styles.css",
+            "group": "build"
+        }
+    ]
+}
