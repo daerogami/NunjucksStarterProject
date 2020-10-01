@@ -52,7 +52,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 * **Mark Clark** - *Project Creator*
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/daerogami/NunjucksStarterProject/graphs/contributors) who participated in this project.
 
 ## License
 
